@@ -1,0 +1,94 @@
+student1,ENG101
+student1,MATH101
+student1,CSE101
+student1,PHY101
+student2,ENG101
+student2,MATH101
+student2,CSE101
+student2,PHY101
+student3,ENG101
+student3,MATH101
+student3,CSE101
+student3,PHY101
+student4,ENG201
+student4,MATH201
+student4,CSE201
+student4,PHY201
+student5,ENG201
+student5,MATH201
+student5,CSE201
+student5,PHY201
+student6,CSE301
+student6,CSE302
+student6,EEE301
+student6,MATH301
+student7,CSE301
+student7,CSE302
+student7,EEE301
+student7,MATH301
+student8,CSE401
+student8,CSE402
+student8,EEE401
+student9,CSE401
+student9,CSE402
+student9,EEE401
+student10,CSE501
+student10,CSE502
+student11,CSE501
+student11,CSE502
+student12,CSE601
+student12,CSE602
+student13,CSE601
+student13,CSE602
+student14,CSE701
+student14,CSE702
+student15,CSE701
+student15,CSE702
+student16,CSE801
+student16,CSE802
+student17,CSE801
+student17,CSE802
+dhiman,CSE204
+wasif,CSE204
+a1,CSE204
+s3,CSE204
+dhiman,CSE205
+wasif,CSE205
+a1,CSE205
+s3,CSE205
+dhiman,CSE100
+wasif,CSE100
+a1,CSE100
+s3,CSE100
+dhiman,CSE2000
+wasif,CSE2000
+a1,CSE2000
+s3,CSE2000
+student16,CSE8
+student17,CSE8
+s2,CSE801
+s2,CSE802
+s2,CSE8
+dhiman,MATH101
+dhiman,PHY101
+dhiman,CSE101
+dhiman,ENG101
+student1,CSE252
+student2,CSE252
+student3,CSE252
+dhiman,CSE252
+DhimanTarafder,CSE502
+DhimanTarafder,CSE501
+DhimanTarafder,CSE 203
+DhimanTarafderr,CSE502
+DhimanTarafderr,CSE501
+DhimanTarafderr,CSE 203
+student10,CSE 252
+student11,CSE 252
+Jewel,CSE 252
+DhimanTarafder,CSE 252
+DhimanTarafderr,CSE 252
+NewStudent,CSE502
+NewStudent,CSE501
+NewStudent,CSE 203
+NewStudent,CSE 252

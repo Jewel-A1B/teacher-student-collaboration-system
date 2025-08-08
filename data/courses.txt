@@ -1,0 +1,26 @@
+ENG101,English Fundamentals,teacher1,1st Semester,General
+MATH101,Basic Mathematics,teacher2,1st Semester,General
+CSE101,Introduction to Programming,teacher3,1st Semester,CSE
+PHY101,Physics I,teacher4,1st Semester,Science
+ENG201,Advanced English,teacher1,2nd Semester,General
+MATH201,Calculus I,teacher2,2nd Semester,General
+CSE201,Data Structures,teacher3,2nd Semester,CSE
+PHY201,Physics II,teacher4,2nd Semester,Science
+CSE301,Database Systems,teacher3,3rd Semester,CSE
+CSE302,Software Engineering,teacher5,3rd Semester,CSE
+EEE301,Circuit Analysis,teacher6,3rd Semester,EEE
+MATH301,Linear Algebra,teacher2,3rd Semester,General
+CSE401,Computer Networks,teacher3,4th Semester,CSE
+CSE402,Operating Systems,teacher5,4th Semester,CSE
+EEE401,Digital Electronics,teacher6,4th Semester,EEE
+CSE501,Machine Learning,teacher3,5th Semester,CSE
+CSE502,Web Development,teacher5,5th Semester,CSE
+CSE601,Mobile App Development,teacher3,6th Semester,CSE
+CSE602,Artificial Intelligence,teacher5,6th Semester,CSE
+CSE701,Final Year Project I,teacher3,7th Semester,CSE
+CSE702,Advanced Algorithms,teacher5,7th Semester,CSE
+CSE801,Final Year Project II,teacher3,8th Semester,CSE
+CSE802,Software Testing,teacher5,8th Semester,CSE
+CSE 203,DBMS,t1,5th Semester,CSE
+CSE252,app sessional,jewel,1st Semester,CSE
+CSE 252,Application Development Sessional,WasifKabir,5th Semester,CSE

@@ -1,0 +1,9 @@
+teacher1,pass123,Dr. Mahmud Hassan,Professor
+teacher2,pass123,Prof. Rashida Begum,Associate Professor
+teacher3,pass123,Dr. Karim Ahmed,Assistant Professor
+teacher4,pass123,Prof. Nasreen Akter,Professor
+teacher5,pass123,Dr. Abdul Mannan,Associate Professor
+teacher6,pass123,Prof. Shahida Khatun,Assistant Professor
+t1,pass123,mohammad ali,professor
+jewel,123456,jewel,professor
+WasifKabir,123456,Wasif Kabir,professor

@@ -1,0 +1,20 @@
+1754146396739,student1,ENG101,teacher1,5,Great introduction to English fundamentals. Teacher explains concepts very clearly.,
+1754146550355,student2,MATH101,teacher2,4,Good course but could use more practice problems.,
+1754148213863,student3,CSE101,teacher3,5,Excellent programming course! Really helped me understand coding basics.,
+1754148677546,student1,MATH101,teacher2,4,Mathematics concepts are well explained with good examples.,
+1754270929231,student4,ENG201,teacher1,5,Advanced English course is very comprehensive and useful.,
+1754270930000,student5,CSE201,teacher3,4,Data structures course is challenging but rewarding.,
+1754270931000,student6,CSE301,teacher3,5,Database systems course is excellent. Very practical approach.,
+1754270932000,student7,CSE302,teacher5,4,Software engineering principles are well taught.,
+1754270933000,student8,CSE401,teacher3,5,Computer networks course covers all important topics thoroughly.,
+1754270934000,student9,CSE402,teacher5,4,Operating systems concepts are explained clearly with examples.,
+1754270935000,student10,CSE501,teacher3,5,Machine learning course is fascinating and well-structured.,
+1754270936000,student11,CSE502,teacher5,4,Web development course provides good hands-on experience.,
+1754270937000,student12,CSE601,teacher3,5,Mobile app development is very practical and modern.,
+1754270938000,student13,CSE602,teacher5,4,Artificial intelligence course opens up new perspectives.,
+1754270939000,student14,CSE701,teacher3,5,Final year project guidance is excellent and supportive.,
+1754270940000,student15,CSE702,teacher5,4,Advanced algorithms course is challenging but very educational.,
+1754299012441,Jewel,CSE 203,t1,3,best dbms teacher ever,
+
+1754459249057,DhimanTarafder,CSE 252,WasifKabir,5,sir course ta projector e nile valo hoto.,accha ami try korbo
+1754459586237,DhimanTarafder,CSE 252,WasifKabir,5,sir fixed time e shuru korle valo hoy.,accha dekhtesi baperta
